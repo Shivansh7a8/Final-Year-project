@@ -1,6 +1,7 @@
 # project27
 The Botanic Image Analyzer comprises a multi-faceted approach that combines image processing techniques to preprocess botanical images, deep learning models for robust feature extraction, and machine learning algorithms for precise classification and disease recognition.
-# Objective: To develop a Botanic Image Analyzer with the aim of advancing plant science and facilitating informed decision-making in agriculture, conservation, and ecological research by achieving the following key goals:
+# Objective: 
+To develop a Botanic Image Analyzer with the aim of advancing plant science and facilitating informed decision-making in agriculture, conservation, and ecological research by achieving the following key goals:
 
 1. Accurate Plant Species Identification: The primary objective is to create a system capable of accurately identifying and classifying a wide range of plant species from images, including common and rare species, hybrids, and variants.
 
